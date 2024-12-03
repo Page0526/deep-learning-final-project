@@ -3,6 +3,7 @@
 
 ## Project Structure
 
+```
 ├── .gitignore
 ├── configs              # chứa các file cấu hình 
 │   └── example.yaml
@@ -15,3 +16,4 @@
 │   └── example.ipynb
 ├── README.md
 ├── train.py             # huấn luyện model 
+```

@@ -105,5 +105,8 @@ Một số kết quả dự đoán của mô hình:
 
   <td  valign="top" width="14.28%"><a href="https://github.com/trungnglight"><img src="https://avatars.githubusercontent.com/u/64264357?v=4" width="100px;" /><br /><sub><b>Nguyễn Quang Trung</b></sub></a><br/></td>
 
+<td  valign="top" width="14.28%"><a href="https://github.com/CarolFiuf"><img src="https://avatars.githubusercontent.com/u/120015543?v=4" width="100px;" /><br /><sub><b>Nguyễn Tiến Trung</b></sub></a><br/></td>
+<td  valign="top" width="14.28%"><a href="https://github.com/VinhLL"><img src=https://avatars.githubusercontent.com/u/115599544?v=4" width="100px;" /><br /><sub><b>Bùi Quang Vinh</b></sub></a><br/></td>
+
 </tr>
 </table>

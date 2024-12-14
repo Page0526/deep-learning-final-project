@@ -13,7 +13,7 @@ Tận dụng khả năng của các mạng học sâu, việc phân loại và n
 ### Dataset 
 Chúng tôi sử dụng bộ dữ liệu [Brain Tumor MRI](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)  bao gồm 7023 ảnh não người được chụp dưới dạng MRI với các kích thước khác nhau. Các ảnh được phân loại thành 4 loại chính như sau: 
 
-<div style="text-align: center;">
+<div align = "center">
     <img src="doc/example_img.png" alt="example" width="300">
 </div>
 
@@ -82,13 +82,13 @@ python infer.py -model_name=resnet -image_path=path/to/image
 ## Result 
 Kết thúc quá trình huấn luyện, checkpoint của các mô hình được công khai [tại đây](model_cpt). Kết quả trong quá trình huấn luyện được chúng tôi công khai [tại](https://links-cdn.wandb.ai/wandb-public-images/links/trungviet17/82arcurq.html). Dưới đây là một số kết quả huấn luyện: 
 
-<div style="text-align: center;">
-    <img src="doc/model_result.png" alt="example" width="400">
+<div align = "center">
+    <img src="doc/model_result.png" alt="example" width="700">
 </div>
 
 Một số kết quả dự đoán của mô hình: 
-<div style="text-align: center;">
-    <img src="doc/predict_img.png" alt="example" width="400">
+<div align = "center">
+    <img src="doc/predict_img.png" alt="example" width="700">
 </div>
 
 

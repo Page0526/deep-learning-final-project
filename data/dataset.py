@@ -1,5 +1,6 @@
 from torch.utils.data import Dataset, DataLoader
 import os 
+from PIL import Image
 
 
 class BrainTumourDataset(Dataset): 
